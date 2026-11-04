@@ -23,28 +23,32 @@ Welcome to my Python Daily Tasks repository! This repository serves as a persona
 The goal of this repository is to build strong foundational knowledge in Python through consistent daily coding. It tracks my progression from basic syntax to advanced topics like Object-Oriented Programming (OOP), Data Structures, and Data Analysis.
 
 ## 📁 Repository Structure 
-
-├──01_Basics/
+my-python-learning/
+├── 01_Basics/
 │   ├── day01_variables_and_types.py
 │   ├── day02_conditionals.py
-│   └── ...
+│   └── day03_loops.py
 ├── 02_Functions_and_Modules/
 │   ├── day10_functions.py
-│   └── ...
-├──03_Data_Structures/
+│   └── day11_modules.py
+├── 03_Data_Structures/
 │   ├── day15_lists_and_tuples.py
-│   ├── day18_dictionaries_sets.py
-│   └── ...
-├──04_OOP/
+│   └── day18_dictionaries_sets.py
+├── 04_OOP/
 │   ├── day25_classes_and_objects.py
-│   └── ...
-├──Lab_Assignments/
+│   └── day26_inheritance_polymorphism.py
+├── Lab_Assignments/
 │   ├── assignment_01.py
 │   └── assignment_02.py
-├──Mini_Projects/
+├── Mini_Projects/
 │   └── calculator_app/
-├── README.md/
-└── requirements.txt/
+│       ├── main.py
+│       └── utils.py
+├── tests/                     # Recommended: for unit testing scripts
+│   └── test_calculator.py
+├── .gitignore                 # Crucial: ignores __pycache__, .venv, etc.
+├── README.md                  # Project overview & progress tracker
+└── requirements.txt           # External dependencies (if any)
 
 
 ## 💡 Topics Covered
