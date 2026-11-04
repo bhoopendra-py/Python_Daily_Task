@@ -109,13 +109,32 @@ python 01_Basics/day01_variables_and_types.py
 
 # 📊 Progress Tracking
 
-| Day | Topic | Status |
-|---|---|----|
-| Day 01 | Variables & Input/Output | ✅ Completed   |
-| Day 02 | Conditional Statements   | ✅ Completed   |
-| Day 03 | Loops & Iterations       | ✅ Completed   |
-| Day 04 | Functions & Scope        | ⏳ In Progress |
-| Day 05 | OOP Concepts             | 📅 Planned     |
+| S.No. | Topic | Status |
+|---|---|---|
+| 01 | Python Basics & Environment Setup | ✅ Completed   |
+| 02 | List Data Type   | ✅ Completed   |
+| 03 | Tuple Data Type      | ✅ Completed   |
+| 04 | Tuple Unpacking        | ✅ Completed |
+| 05 | Sort Vs Sorted Function | ✅ Completed |
+| 06 | Conditional Statement & Nested | ✅ Completed |
+| 07 | Logical Operator | ✅ Completed |
+| 08 | String Data Type | ✅ Completed |
+| 09 | Set Data Type | ✅ Completed |
+| 10 | Dictionary | ✅ Completed |
+| 11 | Python Looping | ✅ Completed |
+| 12 | Loops with List, Tuple Set & Dictionary | ✅ Completed |
+| 13 | List Comprehension | ✅ Completed |
+| 14 | Dictionary Comprehension | ✅ Completed |
+| 15 | Set Comprehension | ✅ Completed |
+| 16 | Python functions | ✅ Completed |
+| 17 | Scope of Variables in Python (LEGB Rule) | ✅ Completed |
+| 18 | Higher-Order Function | ✅ Completed |
+| 19 | Classes & Objects | ✅ Completed |
+| 20 | Encapsulation | ✅ Completed |
+| 21 | Inheritance | ✅ Completed |
+| 22 | Abstraction | ✅ Completed |
+| 23 | Polymorphism | ✅ Completed |
+
 
 ## 👤 Author
 
