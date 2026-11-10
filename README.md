@@ -22,34 +22,6 @@ Welcome to my Python Daily Tasks repository! This repository serves as a persona
 
 The goal of this repository is to build strong foundational knowledge in Python through consistent daily coding. It tracks my progression from basic syntax to advanced topics like Object-Oriented Programming (OOP), Data Structures, and Data Analysis.
 
-## 📁 Repository Structure 
-my-python-learning/
-├── 01_Basics/
-│   ├── day01_variables_and_types.py
-│   ├── day02_conditionals.py
-│   └── day03_loops.py
-├── 02_Functions_and_Modules/
-│   ├── day10_functions.py
-│   └── day11_modules.py
-├── 03_Data_Structures/
-│   ├── day15_lists_and_tuples.py
-│   └── day18_dictionaries_sets.py
-├── 04_OOP/
-│   ├── day25_classes_and_objects.py
-│   └── day26_inheritance_polymorphism.py
-├── Lab_Assignments/
-│   ├── assignment_01.py
-│   └── assignment_02.py
-├── Mini_Projects/
-│   └── calculator_app/
-│       ├── main.py
-│       └── utils.py
-├── tests/                     # Recommended: for unit testing scripts
-│   └── test_calculator.py
-├── .gitignore                 # Crucial: ignores __pycache__, .venv, etc.
-├── README.md                  # Project overview & progress tracker
-└── requirements.txt           # External dependencies (if any)
-
 
 ## 💡 Topics Covered
 
@@ -148,8 +120,8 @@ python 01_Basics/day01_variables_and_types.py
 
 - College / University: Invertis University Bareilly
 
-- GitHub: @your-username
+- GitHub: @bhcoderX99X
 
-- LinkedIn: Your Name
+- LinkedIn: https://www.linkedin.com/in/bhoopendra-kumar-84768b231
 
 ⭐ Feel free to star this repository if you find it helpful!
